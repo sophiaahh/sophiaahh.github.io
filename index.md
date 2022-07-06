@@ -12,8 +12,6 @@
 - Implemented data science workflows in Python to investigate anomalies in NASA satellite data and understand the impact of climate change
 - Collaborating with scientists and developers at NOAA to design and revamp MIRS retrieval algorithm
 - Technlogies Used: Unix/Bash, Python (Plotly,Matplotlib), Jupyter, ParaView
-[Check out the projects](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 **Statistics/Bioinformatics R&D Intern** @ [NSF] (May 2020- Nov 2020)
@@ -23,8 +21,6 @@
 - Contributed to a team effort in designing, developing and deploying robust workflows, as well as custom scripts, to support the analysis of high-throughput data
 - Technologies Used: SAS, SQL, Excel, HTML/CSS/Javascript 
 
-[](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
