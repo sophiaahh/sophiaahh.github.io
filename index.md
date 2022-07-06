@@ -5,6 +5,7 @@
 ### Technical Experience
 
 [Project 1 Title](/sample_page)
+- Worked on NASA and NOAA related projects at the Center for Satellite Applications and Research
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
