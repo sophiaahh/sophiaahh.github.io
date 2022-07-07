@@ -10,7 +10,7 @@
  real-time as data is collected by satellites 
 - Created macros to automate the process of merging and subsetting MIRS data files to render satellite data into 3D visualizations in ParaView 
 - Implemented data science workflows in Python to investigate anomalies in NASA satellite data and understand the impact of climate change
-- Collaborated with scientists and developers at NOAA to design and revamp [MIRS retrieval algorithm] (https://www.star.nesdis.noaa.gov/mirs/algorithm.php)
+- Collaborated with scientists and developers at NOAA to design and revamp [MIRS retrieval algorithm](https://www.star.nesdis.noaa.gov/mirs/algorithm.php)
 - Technlogies Used: Unix/Bash, Python (Plotly,Matplotlib), Jupyter, ParaView
 
 ---
